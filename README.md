@@ -1,4 +1,4 @@
-# Puchong properties on 2019 April.
+# Puchong properties on 2019 April
 
 Real estate is one of the favorite investments for working folks in Malaysia. As part of the data savvy company, the data engineering team harvested the prices of Puchong properties from one of the famous properties website. 
 
