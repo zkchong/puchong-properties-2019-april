@@ -38,3 +38,6 @@ Most of the column names are self-explanatory.
 - price_min : Minimum selling price.
 - price_max : Maximum selling price.
 - title : The title of unit in the properties website. We notice some of them didnt specify the addr_l3 and there is a need to ETL this field to get the right addr_l3. 
+
+## Disclaimer
+Data is extracted from public website and the project is done during my free time. 
